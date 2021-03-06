@@ -1,2 +1,2 @@
-# Class-21
-isTouching functions
+# collisionAlgorithm
+Algorithm to detect collision between two objects
